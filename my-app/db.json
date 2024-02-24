@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 10,
+      "comment": "AAAAA",
+      "date": "2024-02-23T17:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "apple5555",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 10,
+      "comment": "AAAAA",
+      "date": "2024-02-23T17:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
